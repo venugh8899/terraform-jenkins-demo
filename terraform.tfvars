@@ -1,2 +1,2 @@
 aws_region  = "us-east-1"
-bucket_name = "terraform-jenkins-demo-123456789"
+bucket_name = "terraform-jenkins-demo-800380167135-2026"
